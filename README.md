@@ -46,7 +46,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://github.com/image1.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/lucyanovidio">Lucyan Ovídio.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/lucyanovidio">Lars.</a> 🙋
     </td>
   </tr>
 </table>
